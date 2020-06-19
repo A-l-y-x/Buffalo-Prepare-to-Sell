@@ -1,6 +1,7 @@
 @font-face {
     font-family: "CatalinaAnacapa";
-    src: local("CatalinaAnacapa"), url(./fonts/CatalinaAnacapa/CatalinaAnacapa.ttf) format("truetype");
+    src: local("CatalinaAnacapa"),
+        url(./fonts/CatalinaAnacapa/CatalinaAnacapa.ttf) format("truetype");
 }
 
 body {
@@ -45,7 +46,10 @@ body {
 }
 
 .landing {
-    background-image: linear-gradient( var(--blue_dark) 0%, var(--blue_light) 70%);
+    background-image: linear-gradient(
+        var(--blue_dark) 0%,
+        var(--blue_light) 70%
+    );
     min-height: 100vh;
     text-align: center;
 }
@@ -84,7 +88,7 @@ body {
     align-items: center;
     justify-content: center;
     position: absolute;
-    bottom: 20vh;
+    bottom: 5vh;
     left: 50%;
     right: 50%;
 }
@@ -100,20 +104,20 @@ body {
 
 @keyframes point {
     from {
-        transform: translateY(30px)
+        transform: translateY(30px);
     }
 }
 
 .launch-btn:nth-child(1) {
-    background-color: var(--indian_red);
+    background-color: var(--yellow);
 }
 
 .launch-btn:nth-child(2) {
-    background-color: var(--blue_green);
+    background-color: var(--blue_light);
 }
 
 .launch-btn:nth-child(3) {
-    background-color: var(--brown_med);
+    background-color: var(--orange_acc);
 }
 
 .launch-btn {
@@ -123,7 +127,6 @@ body {
     border: none;
     font-size: 1.5rem;
     font-family: "CatalinaAnacapa";
-    color: var(--white);
     /* background-color: var(--yellow); */
 }
 
@@ -173,7 +176,7 @@ body {
     position: absolute;
 }
 
-#welcomeCovid>.over-pic {
+#welcomeCovid > .over-pic {
     bottom: 10%;
 }
 
@@ -271,7 +274,7 @@ body {
         width: 70px;
         padding: 1.5rem;
     }
-    #welcomeCovid>.over-pic {
+    #welcomeCovid > .over-pic {
         bottom: 18%;
     }
 }
