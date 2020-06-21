@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Buffalo-Prepare-to-Sell/static/css/main.9b7b952f.chunk.css",
+    "main.js": "/Buffalo-Prepare-to-Sell/static/js/main.c8f69af1.chunk.js",
+    "main.js.map": "/Buffalo-Prepare-to-Sell/static/js/main.c8f69af1.chunk.js.map",
+    "runtime-main.js": "/Buffalo-Prepare-to-Sell/static/js/runtime-main.d3a3c970.js",
+    "runtime-main.js.map": "/Buffalo-Prepare-to-Sell/static/js/runtime-main.d3a3c970.js.map",
+    "static/js/2.b1f5f18d.chunk.js": "/Buffalo-Prepare-to-Sell/static/js/2.b1f5f18d.chunk.js",
+    "static/js/2.b1f5f18d.chunk.js.map": "/Buffalo-Prepare-to-Sell/static/js/2.b1f5f18d.chunk.js.map",
+    "index.html": "/Buffalo-Prepare-to-Sell/index.html",
+    "precache-manifest.937f5b2362b2e8ffc1c60f7060cb592e.js": "/Buffalo-Prepare-to-Sell/precache-manifest.937f5b2362b2e8ffc1c60f7060cb592e.js",
+    "service-worker.js": "/Buffalo-Prepare-to-Sell/service-worker.js",
+    "static/css/main.9b7b952f.chunk.css.map": "/Buffalo-Prepare-to-Sell/static/css/main.9b7b952f.chunk.css.map",
+    "static/js/2.b1f5f18d.chunk.js.LICENSE.txt": "/Buffalo-Prepare-to-Sell/static/js/2.b1f5f18d.chunk.js.LICENSE.txt",
+    "static/media/CatalinaAnacapa.ttf": "/Buffalo-Prepare-to-Sell/static/media/CatalinaAnacapa.e887fbac.ttf",
+    "static/media/arrow-down.svg": "/Buffalo-Prepare-to-Sell/static/media/arrow-down.47bb6872.svg",
+    "static/media/index.css": "/Buffalo-Prepare-to-Sell/static/media/bg.80c3efeb.svg",
+    "static/media/diamond-row.svg": "/Buffalo-Prepare-to-Sell/static/media/diamond-row.eb7662d3.svg",
+    "static/media/p10.jpg": "/Buffalo-Prepare-to-Sell/static/media/p10.e5fe3f75.jpg",
+    "static/media/p3.jpg": "/Buffalo-Prepare-to-Sell/static/media/p3.d773a9bb.jpg",
+    "static/media/p4.jpg": "/Buffalo-Prepare-to-Sell/static/media/p4.4eb055e1.jpg",
+    "static/media/p5.jpg": "/Buffalo-Prepare-to-Sell/static/media/p5.bb096cec.jpg",
+    "static/media/p6.jpg": "/Buffalo-Prepare-to-Sell/static/media/p6.a43130b0.jpg",
+    "static/media/p7.jpg": "/Buffalo-Prepare-to-Sell/static/media/p7.9a0faed5.jpg",
+    "static/media/p8.jpg": "/Buffalo-Prepare-to-Sell/static/media/p8.ca045cea.jpg",
+    "static/media/p9.jpg": "/Buffalo-Prepare-to-Sell/static/media/p9.57ce6e26.jpg",
+    "static/media/welcomeCovid.svg": "/Buffalo-Prepare-to-Sell/static/media/welcomeCovid.c213654e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3a3c970.js",
+    "static/js/2.b1f5f18d.chunk.js",
+    "static/css/main.9b7b952f.chunk.css",
+    "static/js/main.c8f69af1.chunk.js"
+  ]
+}
